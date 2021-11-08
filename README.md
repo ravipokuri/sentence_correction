@@ -51,6 +51,10 @@ research paper.
 
 
 Here we have used multiple models like:
+
+
+
+
 1.For embeddings used Character level glove embeddings,word level glove embeddings,Character level fasttext embeddings, word level fasttext embeddings and to capture the sequence information used LSTM.
 
 
