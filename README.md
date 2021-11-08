@@ -45,3 +45,15 @@ research paper.
 
 
 
+![data](https://user-images.githubusercontent.com/48234359/140685143-ea67540c-bef4-4a96-8742-d7f81c286501.png)
+
+
+
+
+Here we have used multiple models like:
+1.For embeddings used Character level glove embeddings,word level glove embeddings,Character level fasttext embeddings, word level fasttext embeddings and to capture the sequence information used LSTM.
+2.At the time of inference,used beam search for effectively predicting most probable word.
+3.LSTM with glove word embedding and Bahadanau Attention mechanism.
+
+
+
