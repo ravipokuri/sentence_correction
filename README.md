@@ -52,8 +52,21 @@ research paper.
 
 Here we have used multiple models like:
 1.For embeddings used Character level glove embeddings,word level glove embeddings,Character level fasttext embeddings, word level fasttext embeddings and to capture the sequence information used LSTM.
+
+
+
 2.At the time of inference,used beam search for effectively predicting most probable word.
+
+
+
+
 3.LSTM with glove word embedding and Bahadanau Attention mechanism.
+
+
+
+
+You can see my article on this here:https://medium.com/@pokuriraviteja2015/sentence-correction-using-recurrent-neural-networks-e06d7fe0212f     
+
 
 
 
